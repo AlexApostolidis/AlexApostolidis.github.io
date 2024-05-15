@@ -1190,3 +1190,13 @@ section .container {
 .credits a:hover {
   color: #fff;
 }
+
+.table-summary{
+  width: 100%; 
+  border: 1px solid white;
+}
+
+.table-summary td{
+  padding: 10px;
+  border: 1px solid white;
+}
